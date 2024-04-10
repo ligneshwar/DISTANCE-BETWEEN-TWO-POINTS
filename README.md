@@ -9,7 +9,9 @@ To write a python program to find the distance two 2 points
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: print the distance
 ### Step 5: end the program
-### PROGRAM:
+## Developed by:K.Ligneshwar
+## Reg no:212223230113
+### PROGRAM to find DISTANCE-BETWEEN-TWO-POINTS
 ```
 x1=int(10)
 y1=int(6)
@@ -20,7 +22,7 @@ d=d2**0.5
 print(round(d,2))
 ```
 ### OUTPUT:
-
+![alt text](<Screenshot 2024-03-18 171026.png>)
 
 ### RESULT:
 Thus the distance between two points are successfully executed.
